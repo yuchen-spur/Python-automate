@@ -1,0 +1,1 @@
+@py.exe C:\Users\69421\Desktop\python\csv_json\quickWeather\quickWeather.pyw %*

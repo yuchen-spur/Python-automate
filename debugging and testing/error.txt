@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:/Users/69421/Desktop/python/errorExample.py", line 4, in <module>
+    raise Exception ('There is an error')
+Exception: There is an error
